@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GKProj3</string>
+    <string name="special1">Seaweed Salad</string>
+    <string name="special2">Salmon Sushi</string>
+    <string name="special3">Mixed Sashimi</string>
+    <string name="bt">Beijing Tokyo</string>
+    <string name="home">Home</string>
+    <string name="home_screen">Welcome to Beijing Tokyo</string>
+    <string name="welcome">Welcome!</string>
+    <string name="find_us">103 Nagog Park, Acton, MA 01720</string>
+    <string name="call_us">Call us at (978) 429-8989</string>
+    <string name="website">www.btsushi.com</string>
+    <string name="menu">Menu specials:</string>
+    <string name="nav_instructions">Click on the navigation tabs below to learn more.</string>
+    <string name="bt_logo">The Beijing Tokyo logo</string>
+    <string name="seaweed_salad_img">Seaweed Salad</string>
+    <string name="salmon_sushi_img">Salmon Sushi</string>
+    <string name="mixed_sashimi_img">Mixed Sashimi</string>
+    <string name="mixed_sashimi_desc">Try our delicately crafted salmon sashimi with a rich selection of vegetables according to your needs, dipped in vinegar red pepper oil and sprinkled with salad leaves on top for a fulfilling taste!</string>
+    <string name="salmon_sushi_desc">Indulge in your love for sushi, and try something new! We present to you rolls of salmon sushi with a ball of vinegar rice encasing the delicacy awaiting for you. Feel free to enjoy with a side wasabi and soy sauce, some salt, and a bit of citrus!</string>
+    <string name="seaweed_salad_desc">Reward yourself with a tasty seaweed salad, made of wakame and delicious seaweeds packed with many other nutrient-dense ingredients, such as sesame seeds, leafy greens, ginger, edamame, daikon radish, shredded carrots, and corn. The best part? It\'s healthy!</string>
+</resources>
